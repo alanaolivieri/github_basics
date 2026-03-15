@@ -123,6 +123,10 @@ git diff
 ```bash
 git merge main
 ```
+- Eliminar rama
+```bash
+git branch -d nombre-rama
+```
 
 ## Revisiones en GitHub web.
 
