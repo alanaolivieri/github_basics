@@ -90,10 +90,9 @@ git checkout -b nombre-rama
 ```bash
 git checkout main
 ```
-- Actualizar main
+- Actualizar rama
 ```bash
-git checkout main
-git pull origin main
+git pull
 ```
 - Añadir cambios
     - solo a readme:
