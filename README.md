@@ -35,11 +35,11 @@ En [instrucciones](instrucciones.md) está el detalle.
 <!-- INICIO SECCIÓN POLÍTICA -->
 ### 2. Política
 
-Para más información acerca de la política española puedes enloquecer con estos enlaces:
-[Sistema Político](https://administracion.gob.es/pag_Home/espanaAdmon/comoSeOrganizaEstado/Sistema_Politico.html)
-[La Moncloa](https://www.lamoncloa.gob.es/Paginas/index.aspx)
-[Partido Popular](https://www.pp.es/)
-[Partido Socialista Obrero Español](https://www.psoe.es/)
+**Imágenes:**
+![politica01](images\politica01.jpg)
+![politica02](images\politica02.jpg)
+![politica03](images\politica03.jpg)
+![politica04](images\politica04.jpg)
 
 <!-- FIN SECCIÓN POLÍTICA -->
 
