@@ -40,7 +40,7 @@ En [instrucciones](instrucciones.md) está el detalle.
 
 <!-- INICIO SECCIÓN NATURALEZA -->
 ### 3. Naturaleza
-
+test texto naturaleza
 
 <!-- FIN SECCIÓN NATURALEZA -->
 
