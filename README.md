@@ -70,6 +70,10 @@ En [instrucciones](instrucciones.md) está el detalle.
 
 <!-- INICIO SECCIÓN EDUCACIÓN -->
 ### 8. Educación
+#### La inteligencia artificial en la educación
+La Inteligencia Artificial (IA) proporciona el potencial necesario para abordar algunos de los desafíos mayores de la educación actual, innovar las prácticas de enseñanza y aprendizaje y acelerar el progreso para la consecución del ODS 4. Sin embargo, los rápidos desarrollos tecnológicos conllevan inevitablemente múltiples riesgos y desafíos, que hasta ahora han superado los debates políticos y los marcos regulatorios. La UNESCO se compromete a apoyar a los Estados Miembros para que saquen provecho del potencial de las tecnologías de la IA con miras a la consecución la Agenda de Educación 2030, al tiempo que vela por que su aplicación en contextos educativos responda a los principios básicos de inclusión y equidad.
+
+[Más info: La inteligencia artificial en la educación][https://www.unesco.org/es/digital-education/artificial-intelligence]
 
 
 <!-- FIN SECCIÓN EDUCACIÓN -->
