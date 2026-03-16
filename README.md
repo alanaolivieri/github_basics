@@ -76,7 +76,7 @@ La Inteligencia Artificial (IA) proporciona el potencial necesario para abordar 
 [Lee el artículo completo aquí:](https://www.unesco.org/es/digital-education/artificial-intelligence)
 
 <p align="center">
-  <img src="./images/8_educacion_boy_with_robot.jpgg" alt="GitHub" width="200">
+  <img src="./images/8_educacion_boy_with_robot.jpg" alt="GitHub" width="200">
 </p>
 
 <!-- FIN SECCIÓN EDUCACIÓN -->
