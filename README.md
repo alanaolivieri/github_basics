@@ -66,6 +66,14 @@ Community of creatives, designers, thinkers, sound designers, graphic designers,
   <img src="./images/offf_barcelona.jpg" alt="OFFFBarcelona" width="200">
 </p>
 
+<p>Onur Senturk is a director and artist based in London. His early education in traditional fine arts was followed by a degree in animation from college. He gained recognition with his abstract short films Nokta and Triangle. Afterwards, he began working at Prologue Films, contributing to feature films through design and animation. His design and art direction on the main titles of David Fincher’s The Girl with the Dragon Tattoo helped launch his directing career.
+</p>
+<p align="center">
+  <img src="./images/Onur_Senturk_OFFF.webp" alt="OFFFBarcelona" width="200">
+</p>
+
+
+
 <!-- FIN SECCIÓN ARTE -->
 
 <!-- INICIO SECCIÓN TECNOLOGÍA -->
