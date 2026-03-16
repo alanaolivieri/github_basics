@@ -68,7 +68,7 @@ En [instrucciones](instrucciones.md) está el detalle.
 ## Qué es OpenClaw y por qué importa ahora mismo
 
 <p align="center">
-  <img src="./images/github.png" alt="GitHub" width="200">
+  <img src="./images/tehc_news_01.jpg" alt="GitHub" width="200">
 </p>git pull
 
 
