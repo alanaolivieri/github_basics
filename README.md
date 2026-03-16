@@ -36,6 +36,7 @@ En [instrucciones](instrucciones.md) está el detalle.
 ### 2. Política
 
 **Imágenes:**
+
 ![politica01](https://deverdaddigital.com/wp-content/uploads/2018/12/22831_Parlamneto-510x287.jpg)
 ![politica02](https://phantom-elmundo.unidadeditorial.es/a463df7ce2dd2c2351b9e5341de3ecbc/resize/414/f/jpg/assets/multimedia/imagenes/2020/08/05/15966472744515.jpg)
 
