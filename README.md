@@ -28,6 +28,11 @@ En [instrucciones](instrucciones.md) está el detalle.
 
 <!-- INICIO SECCIÓN DEPORTE -->
 ### 1. Deporte
+Hacer deporte es bueno!...O eso dicen
+![Daniel Cormier](image.png)
+
+Nos gusta el trial:
+[Trial 2020 BCN](https://www.youtube.com/watch?v=6m5f-CRBvDM)
 
 
 <!-- FIN SECCIÓN DEPORTE -->
