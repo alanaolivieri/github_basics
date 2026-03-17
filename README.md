@@ -54,6 +54,31 @@ En [instrucciones](instrucciones.md) está el detalle.
 ### 5. Cine
 
 
+Facebook
+X
+Bluesky
+WhatsApp
+Copiar enlace
+La 98ª edición de los Premios Oscar ha vuelto a reunir esta noche en el Dolby Theatre, en Los Ángeles, a las grandes figuras de la industria cinematográfica para celebrar lo mejor del último año en el cine. Los pecadores, con 16 nominaciones, y Una batalla tras otra, con 13, parten como favoritas.
+
+La ceremonia, organizada por la Academy of Motion Picture Arts and Sciences entrega las estatuillas más prestigiosas del séptimo arte, reconociendo el trabajo de intérpretes, directores, técnicos y creadores de todo el mundo. A continuación, repasamos la lista completa de ganadores de esta edición:
+
+OSCAR 2026, TODOS LOS GANADORES POR CATEGORÍA
+MEJOR PELÍCULA
+Una batalla tras otra - GANADOR
+Bugonia
+Frankenstein
+Hamnet
+Marty Supreme
+El agente secreto
+Valor sentimental
+Los pecadores
+Sueños de trenes
+F1: La película
+
+Más info en: 
+
+
 <!-- FIN SECCIÓN CINE -->
 
 <!-- INICIO SECCIÓN ARTE -->
