@@ -39,8 +39,13 @@ En [instrucciones](instrucciones.md) está el detalle.
 <!-- FIN SECCIÓN POLÍTICA -->
 
 <!-- INICIO SECCIÓN NATURALEZA -->
+<<<<<<< HEAD
 ### 3. Naturalezapw
 
+=======
+### 3. Naturaleza
+test texto naturaleza
+>>>>>>> 2d1f63e7b661d14e9fb23d3ed9c196d95172a0af
 
 <!-- FIN SECCIÓN NATURALEZA -->
 
