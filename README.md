@@ -39,7 +39,7 @@ En [instrucciones](instrucciones.md) está el detalle.
 <!-- FIN SECCIÓN POLÍTICA -->
 
 <!-- INICIO SECCIÓN NATURALEZA -->
-### 3. Naturaleza
+### 3. Naturalezapw
 
 
 <!-- FIN SECCIÓN NATURALEZA -->
