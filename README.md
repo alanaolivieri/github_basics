@@ -58,7 +58,7 @@ En [instrucciones](instrucciones.md) está el detalle.
 
 <!-- INICIO SECCIÓN ARTE -->
 ### 6. Arte
-https://www.offf.barcelona/offf-schedule 
+mirar pagina web [aqui:](https://www.offf.barcelona/offf-schedule)
 OFFF Barcelona hosts innovative and emerging talents to share their insightful experiences.
 
 Community of creatives, designers, thinkers, sound designers, graphic designers, students, theorists, developers, and professionals. The largest showcase and meeting point for contemporary visual creativity, where the best talents share their creative processes and explore the future of the global creative industry.
@@ -71,7 +71,6 @@ Community of creatives, designers, thinkers, sound designers, graphic designers,
 <p align="center">
   <img src="./images/Onur_Senturk_OFFF.webp" alt="OFFFBarcelona" width="200">
 </p>
-
 
 
 <!-- FIN SECCIÓN ARTE -->
