@@ -69,7 +69,7 @@ En [instrucciones](instrucciones.md) está el detalle.
 
 <p align="center">
   <img src="./images/tehc_news_01.jpg" alt="GitHub" width="800">
-</p>git pull
+</p>
 
 
 OpenClaw —anteriormente conocido como Clawdbot y Moltbot— es un agente de inteligencia artificial autónomo, gratuito y de código abierto desarrollado por el programador austriaco Peter Steinberger. A diferencia de un chatbot convencional, OpenClaw no se limita a responder preguntas: ejecuta tareas complejas directamente en el hardware del usuario, se integra con aplicaciones como WeChat, WhatsApp o Telegram, y puede conectarse a modelos de lenguaje como Claude o GPT para operar con autonomía real.
