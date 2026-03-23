@@ -96,7 +96,7 @@ git pull
 ```
 - Añadir cambios
     - solo a readme:
-```bashi
+```bash
 git add README.md
 ```
     - a todo:
