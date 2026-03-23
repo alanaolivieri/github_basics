@@ -78,6 +78,9 @@ F1: La película
 
 Más info en: [Enlace_noticia](https://www.rtve.es/noticias/20260316/ganadores-oscar-2026-lista-completa/16981745.shtml)
 
+<p align="center">
+  <img src="./images/foto_oscars.webp" alt="GitHub" width="200">
+</p>
 
 <!-- FIN SECCIÓN CINE -->
 
