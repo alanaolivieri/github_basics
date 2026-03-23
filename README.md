@@ -80,7 +80,7 @@ Lee el artículo completo [aquí:](https://www.unesco.org/es/digital-education/a
 </p>
 
 <!-- FIN SECCIÓN EDUCACIÓN -->
-git commit -m "ELIMINADA Foto 2 erronea"
+
 <!-- INICIO SECCIÓN ECONOMÍA -->
 ### 9. Economía
 
