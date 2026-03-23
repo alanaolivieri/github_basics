@@ -55,29 +55,31 @@ Aspectos Clave de la Medicina Oncológica:
 •    Tratamientos Sistémicos: Se especializan en terapias que actúan en todo el organismo, tales como:
 
 o    Quimioterapia: Fármacos para destruir células cancerosas.
-https://elpais.com/salud-y-bienestar/2025-10-25/los-misiles-teledirigidos-a-las-celulas-tumorales-abren-una-nueva-autopista-para-plantar-cara-al-cancer.html?utm_source=chatgpt.com
+[link al url](https://elpais.com/salud-y-bienestar/2025-10-25/los-misiles-teledirigidos-a-las-celulas-tumorales-abren-una-nueva-autopista-para-plantar-cara-al-cancer.html)
 
-https://www.bcrf.org/blog/the-science-behind-hope-5-breakthrough-areas-in-breast-cancer-research-from-2025/?utm_source=chatgpt.com
+![](/images/02_medicina_dirigida.jpg)
+
+[link al url](https://www.bcrf.org/blog/the-science-behind-hope-5-breakthrough-areas-in-breast-cancer-research-from-2025/)
+
+![](images/03_medicina_inmunoterapia.jpg)
 
 o    Terapia dirigida: Medicamentos que atacan alteraciones moleculares específicas del tumor.
-https://www.cancertodaymag.org/winter-2025-2026/targeted-therapy-combination-provides-deep-remissions/?utm_source=chatgpt.com
+[link al url](https://www.cancertodaymag.org/winter-2025-2026/targeted-therapy-combination-provides-deep-remissions/)
 
-https://pmc.ncbi.nlm.nih.gov/articles/PMC12975599/?utm_source=chatgpt.com
+![](/images/04_medicina_inmunoterapia.jpg)
+
+[link al url](https://pmc.ncbi.nlm.nih.gov/articles/PMC12975599/)
+
+![](/images/05_medicina_hormonaterapia.jpg)
 
 o    Inmunoterapia: Estimula el sistema inmunitario del paciente.
-https://link.springer.com/article/10.1007/s44178-025-00205-0
+[link al url](https://link.springer.com/article/10.1007/s44178-025-00205-0)
 
-https://pmc.ncbi.nlm.nih.gov/articles/PMC12855455/?utm_source=chatgpt.com
+![](/images/06_medicina_seguimiento.jpg)
 
-o    Hormonoterapia: Bloquea hormonas que alimentan ciertos cánceres.
-https://seom.org/163-informacion-al-publico-guia-de-tratamientos/hormonoterapia 
+[link al url](https://pmc.ncbi.nlm.nih.gov/articles/PMC12855455/)
 
-https://www.xemio.org/es/con-solti-blog/308-efectos-secundarios-de-la-hormonoterapia
-
-•    Manejo Integral: Además de tratar el tumor, se ocupan de los efectos secundarios, el apoyo emocional y los cuidados paliativos en etapas avanzadas.
-
-•    Seguimiento: Vigilancia continua tras finalizar el tratamiento para detectar posibles recaídas. 
-La oncología médica se combina frecuentemente con cirugía y radioterapia para ofrecer el mejor abordaje según el tipo de cáncer
+![](/images/07_medicina_final.jpg)
 
 <!-- FIN SECCIÓN MEDICINA -->
 
